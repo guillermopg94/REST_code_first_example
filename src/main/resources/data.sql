@@ -1,0 +1,1 @@
+insert into user (id, birth_date, name) values (13, '2021-09-01 06:15:43', 'Josechu Leton');
